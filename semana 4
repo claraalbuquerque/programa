@@ -1,0 +1,35 @@
+1-  
+O que é linguagem de programação? É um conjunto de símbolos e códigos usados para orientar a programação de estruturas no desenvolvimento da web.
+3 tipos: 
+> Java: Essa linguagem orientada a objeto apareceu por volta de 1995, prometendo ser rápida, segura, confiável e multiplataforma. Isso porque os programas criados em Java não ficam em código nativo da plataforma. Em vez disso, são compilados para uma forma intermediária chamada de bytecode e são executados por meio de uma máquina virtual. Dessa forma, um programador que desenvolve um sistema em Java faz esse processo uma só vez, podendo executá-lo posteriormente em qualquer plataforma que ofereça suporte para a linguagem.
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(boa noite ibmec centro );
+  }
+}
+
+
+
+
+> JavaScript : De acordo com uma pesquisa da Stack Overflow, JavaScript é a linguagem de programação mais usada pelos programadores da amostra, passando dos 69%. Com ela, é possível fazer com que todas as funções desenvolvidas criem vida diante dos usuários — ou seja, trata de todas as interações visuais com a plataforma ou sistema.
+const message = bom dia ibmec // Try edit me
+
+
+// Update header text
+document.querySelector('#header').innerHTML = message
+
+
+// Log to console
+console.log(message)
+
+
+
+
+> Python: Apesar de existir há décadas, o Python ganhou popularidade de uns anos para cá. Essa linguagem tem como principal objetivo favorecer a legibilidade e a produtividade do sistema, com códigos de fácil manutenção e baixa quantidade de caracteres especiais.
+Python 3.10.5 (main, Jul 22 2022, 17:09:35) [GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> bom dia ibmec centro
+
+
+
+
